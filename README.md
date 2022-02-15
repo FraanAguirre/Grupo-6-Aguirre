@@ -1,5 +1,8 @@
 # Grupo-6-Aguirre
 # ProyectoFinalPythonCoder
+##Link del Video:https://www.youtube.com/watch?v=6r-cC4gRHwg
+##Link a los casos de prueba: https://docs.google.com/document/d/1jgfitRdyRbdUSSHW5sJqkk8hcBn-1bQAVAYlX8yNsSM/edit?usp=sharing
+
 
 
 Este proyecto consiste de un sitio de actividades y desafíos/torneos para aficionados de los videojuegos, llamados en el proyecto como Jugadores o Gamers. Se puede visualizar los Videojuegos, Desarrolladores, Jugadores, Equipos y Desafíos Gamer registrados en la base de datos, tal como también se puede agregar nuevas entradas a cada modelo. También se pueden editar y eliminar dichas entradas. Si se quiere hacer una búsqueda específica/filtrar por una determinada cadena en lugar de visualizar todas las entradas, también es posible. Además, uno se puede registrar como usuario, logearse, editar sus datos de usuario, y cargar avatares para que se muestren en el Home.
@@ -152,10 +155,16 @@ Para insertar nuevos Equipos a la base de datos. Si se registra correctamente, r
 Para ingresar al sitio, abrir el proyecto en el editor (por defecto usamos Visual Studio Code) y correr el servidor local ejecutando en la terminal el comando `python manage.py runserver`. Una vez esté corriendo el servidor, dirigirse a http://127.0.0.1:8000/AppFinal/inicio para ingresar.
 
 Para navegar por las distintas vistas del proyecto, simplemente utilizar el Menu Lateral. El Menu Lateral se puede activar y desactivar usando el botón azul de Ocultar/Mostrar Menu Lateral. Si una vista tiene subvistas, se podrá acceder a ellas desde la supervista o vista principal, usando el botón gris. Para volver para atrás, usar el botón gris de Volver en la parte superior de la subvista.
+Se puede acceder a las secciones y vistas correspondientes de Registro, Login, Logout, Editar Perfil, y Agregar Avatar desde la barra de navegación superior.
+
+Adicionalmente, también se puede navegar entre secciones y vistas ingresando la ruta pura en la barra de navegación del navegador.
+
+El proyecto fue testeado usando Google Chrome, Microsoft Edge y Mozilla Firefox.
+
 
 
 ## Integrantes del equipo
 
-**Francisco Aguirre
+**Francisco Aguirre tiene 22 años. Es Aspirante a programador. Y con este Proyecto Final desea estar cada vez mas cerca de entrar al mundo laboral de la programacion.
 
 # ¡Muchas gracias!
